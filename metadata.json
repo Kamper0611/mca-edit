@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft MCA 實體編輯器",
+  "description": "開啟與分析 Minecraft .mca 區域檔案，依數量高低統計各類實體，支援指定與批量刪除實體並導出新 MCA 檔案",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
